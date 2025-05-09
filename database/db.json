@@ -1,0 +1,21 @@
+{
+  "motoristas": [
+    {
+      "id": 1746830068372,
+      "nome": "João Silva",
+      "data_nascimento": "1985-06-12",
+      "carteira_habilitacao": "ABC123456",
+      "onibus_id": 2
+    }
+  ],
+  "onibus": [
+    {
+      "id": 1746830285083,
+      "placa": "XYZ-1234",
+      "modelo": "Volksbus 17.230",
+      "ano_fabricacao": 2018,
+      "capacidade": 48,
+      "motorista_id": 1
+    }
+  ]
+}
